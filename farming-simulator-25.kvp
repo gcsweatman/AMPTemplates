@@ -1,3 +1,5 @@
+Meta.DisplayName=Farming Simulator 2025
+Meta.Description=Farming Simulator 2025 Dedicated Server
 App.AdminMethod=PinballWizard
 App.ApplicationPort1=10823
 App.ApplicationReadyMode=Immediate
